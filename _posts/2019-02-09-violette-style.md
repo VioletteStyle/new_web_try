@@ -1,7 +1,8 @@
 ---
-title: violette
-categories: cook
-date: 2019-02-01 
+date: 2019-02-11
+title: Violette Style
+categories:
+  - Cookies 
 featured_image: 
 recipe: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
   recipe:
