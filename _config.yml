@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
-author:
+description: Fashion blog by Violette.Z
+author: Violette.Z
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Treat Template
+  name: Fashion Blog by Violette
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
