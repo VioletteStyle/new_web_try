@@ -1,9 +1,9 @@
 ---
-date: 2017-01-07
-title: Chocolate Cupcakes
+date: 2018-12-30
+title: How to rock a French Style
 categories:
-  - Cupcakes
-  - Cakes
+  - Fashion
+  - Franch Style
 featured_image: https://source.unsplash.com/OfOr-exWp24/1560x940
 recipe:
   servings: 12 cupcakes
