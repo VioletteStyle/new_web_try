@@ -21,8 +21,7 @@ recipe:
     2. Choose clean colors, such as white, camel, grey.
     3. Add some high-light into the whole outfit by simple colors, such as burgendy, maroon, or navy blue.
     4. Keep comfortable and cool.
-    5. Emphasize on the quality not quantity.
-    6. Insist your own personal style and keep the "I don't care" attitude towards trend and fashion.
+    5. Insist your own personal style and keep the "I don't care" attitude towards trend and fashion.
 
     **Do not**
     1. Combine more than three colors in one outfit, except white, black & grey.
@@ -36,10 +35,10 @@ French Style is all about **effortless**. Remember what Oscar de la Renta said, 
 
 You can never go wrong with a french robe.
 
-![Cupcakes](https://images.unsplash.com/photo-1420730614543-e39f93134b0d?w=1560&h=940&fit=crop)
+![Cupcakes](https://images.unsplash.com/screenshot-1551034198075-1fbf2f04aded-web2.jpg?w=1560&h=940&fit=crop)
 
-Milk is a great addition to any cupcake experience.
+Sometimes, I try to add some high-light into my french-style look. Such as this pumpkin oversized sweater. I love the color and the fantastic vibe it brings to the whole outfit.
 
-![Cupcakes](https://images.unsplash.com/photo-1457508252818-162dc1934c2f?w=1560&h=940&fit=crop)
+![Cupcakes](https://images.unsplash.com/screenshot-1551034278499-ed1825ac4bb0-episode09-02.jpg?w=1560&h=940&fit=crop)
 
 Why not add some popcorn?
