@@ -45,7 +45,7 @@ recipe:
     1. Combine all of the above in a food processor and process until smooth. Refrigerate.
     2. Frost cupcakes as you use them.
 ---
-French Style is all about ****"effortless"****. Remember what Oscar de la Renta said, "Fashion is about dressing according to what’s fashionable. Style is more about being yourself."
+French Style is all about **effortless**. Remember what Oscar de la Renta said, *"Fashion is about dressing according to what’s fashionable. Style is more about being yourself."*
 ![Fashion](https://images.unsplash.com/screenshot-1551031200397-83accd013c72-website01.jpg?w=1560&h=940&fit=crop)
 
 You can never go wrong with a french robe.
