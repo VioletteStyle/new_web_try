@@ -34,10 +34,10 @@ French Style is all about **effortless**. Remember what Oscar de la Renta said, 
 
 You can never go wrong with a french robe.
 
-![Cupcakes](https://images.unsplash.com/screenshot-1551034198075-1fbf2f04aded-web2.jpg?w=1560&h=940&fit=crop)
+![Fashion](https://images.unsplash.com/screenshot-1551034198075-1fbf2f04aded-web2.jpg?w=1560&h=940&fit=crop)
 
 Sometimes, I try to add some high-light into my french-style look. Such as this pumpkin oversized sweater. I love the color and the fantastic vibe it brings to the whole outfit.
 
-![Cupcakes](https://images.unsplash.com/screenshot-1551034278499-ed1825ac4bb0-episode09-02.jpg?w=1560&h=940&fit=crop)
+![Fashion](https://images.unsplash.com/screenshot-1551034278499-ed1825ac4bb0-episode09-02.jpg?w=1560&h=940&fit=crop)
 
 Why not add some popcorn?
