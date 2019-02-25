@@ -30,6 +30,7 @@ recipe:
     5. Look like you are trying **too much**
 ---
 French Style is all about **effortless**. Remember what Oscar de la Renta said, *"Fashion is about dressing according to what’s fashionable. Style is more about being yourself."*
+
 ![Fashion](https://images.unsplash.com/screenshot-1551031200397-83accd013c72-website01.jpg?w=1560&h=940&fit=crop)
 
 You can never go wrong with a french robe.
