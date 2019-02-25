@@ -1,9 +1,9 @@
 ---
-date: 2017-01-06
-title: Lemon Cake
+date: 2019-02-10
+title: Tips for Athleisure Style
 categories:
-  - Cakes
-featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
+  - Active
+featured_image: https://source.unsplash.com/sM3UAHN6Eq4/1560x940
 recipe:
   servings: 12 slices
   prep: 15 minutes
