@@ -5,38 +5,40 @@ categories:
   - Active
 featured_image: https://source.unsplash.com/sM3UAHN6Eq4/1560x940
 recipe:
-  servings: 12 slices
-  prep: 15 minutes
-  cook: 65 minutes
-  ingredients_markdown: |-
-    * 1 cup unsalted butter
-    * 2 1/2 cups all-purpose flour
-    * 1 teaspoon salt
-    * 1/2 teaspoon baking soda
-    * 1/2 teaspoon baking powder
-    * 3 cups of sugar
-    * 2 teaspoons of lemon zest
-    * 6 teaspoons of lemon juice
-    * 6 eggs
-    * 1 cup Greek yogurt
-    * 1 cup confectioners’ sugar
-  directions_markdown: |-
-    1. Heat oven to 325° F. Butter and flour a 12-cup Bundt pan. In a medium bowl, whisk together the flour, salt, baking soda, and baking powder.
-    2. Using an electric mixer, beat the butter, granulated sugar, and lemon zest on medium-high until light and fluffy, 3 to 4 minutes. Beat in 4 tablespoons of the lemon juice, then the eggs, one at a time, scraping down the sides of the bowl as necessary.
-    3. Reduce mixer speed to low. Add half the flour mixture, then the yogurt, and then the remaining flour mixture. Mix just until combined (do not overmix).
-    4. Transfer the batter to the prepared pan and bake until a toothpick inserted in the center comes out clean, 65 to 75 minutes. Cool the cake in the pan for 30 minutes, then turn it out onto a wire rack to cool completely.
-    5. In a small bowl, whisk together the confectioners’ sugar and 1 of the remaining tablespoons of lemon juice until smooth, adding the remaining lemon juice as necessary to create a thick, but pourable glaze.
----
-If you're a sour fan you're going to love this cake. Lemon Cake is one of my favorite year-round desserts, but it is a perfect choice for spring and summer, when everyone tends to crave citrus or light & flavorful recipes
+  outfit_markdown: |-
+    **french-style**
 
-![Cake](https://source.unsplash.com/1HPTYLozDGw)
+    * french robe from H&M
+    * white cardigan from UrbanOutfitters
+    * pumpkin sweater from & Other Stories
+ 
+
+  tips_markdown: |-
+    **Do**
+
+    1. Keep using basic yet well-designed single items, i.e. simple jeans, white shirts, basic blouses, etc.
+    2. Choose clean colors, such as white, camel, grey.
+    3. Add some high-light into the whole outfit by simple colors, such as burgendy, maroon, or navy blue.
+    4. Keep comfortable and cool.
+    5. Insist your own personal style and keep the "I don't care" attitude towards trend and fashion.
+
+    **Do not**
+    1. Combine more than three colors in one outfit, except white, black & grey.
+    2. Keep trying something in trend, especially the overstatement stuff.
+    3. Wear flashy Logos.
+    4. Wear sky-high heels.
+    5. Look like you are trying **too much**
+---
+If you're a fitness fan you're going to love this style. Athleisure style is one of my favorite year-round outfit, but it is a perfect choice for winter and early-spring, when everyone tends to blend sporty into casual outfits.
+
+![athleisure](https://source.unsplash.com/BARhYSlLF20)
 
 Straight out of the oven.
 
-![Cake](https://source.unsplash.com/WoVGndRTx2o)
+![athleisure](https://source.unsplash.com/WoVGndRTx2o)
 
 You can add extra flavour with berries.
 
-![Cake](https://source.unsplash.com/7JYVKRo7i5Q)
+![athleisure](https://source.unsplash.com/7JYVKRo7i5Q)
 
 Or a caramel sauce.
