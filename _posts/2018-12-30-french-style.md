@@ -5,6 +5,7 @@ categories:
   - Fashion
 featured_image: https://source.unsplash.com/OfOr-exWp24/1560x940
 recipe:
+tips:
   
   outfit_markdown: |-
     **french-style**
