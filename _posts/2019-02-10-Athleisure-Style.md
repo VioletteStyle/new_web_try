@@ -3,7 +3,7 @@ date: 2019-02-10
 title: Tips for Athleisure Style
 categories:
   - Active
-featured_image: https://source.unsplash.com/sM3UAHN6Eq4/1560x940
+featured_image: https://source.unsplash.com/D_SPfPdpwQA/1560x940
 recipe:
   outfit_markdown: |-
     **french-style**
