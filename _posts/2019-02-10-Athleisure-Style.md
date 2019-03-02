@@ -31,7 +31,7 @@ recipe:
 ---
 If you're a fitness fan you're going to love this style. Athleisure style is one of my favorite year-round outfit, but it is a perfect choice for winter and early-spring, when everyone tends to blend sporty into casual outfits.
 
-![athleisure](https://source.unsplash.com/BARhYSlLF20)
+![athleisure](https://source.unsplash.com/D_SPfPdpwQA)
 
 Straight out of the oven.
 
