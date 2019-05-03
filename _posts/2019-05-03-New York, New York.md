@@ -3,7 +3,7 @@ date: 2019-05-03
 title: New York, New York
 categories:
   - Travel
-featured_image: https://source.instagram.com/Bwe6zlqn8pa/1560x940
+featured_image: https://source.instagram.com/p/Bwe6zlqn8pa/1560x940
 ---
 We saw a lot of great new ideas from ss19 runaway and fashion weeks. My favorite style for handbag this year is absolutely ***box handbag***.   
 
