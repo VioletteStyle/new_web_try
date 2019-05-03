@@ -31,9 +31,11 @@ Also, the head-to-toe nude outfit is in trend this spring, but it is never too c
 
 ![handbag](https://source.unsplash.com/JlXaq0zTI_g)
 
-Don't forget the shoes! I chose a pair of orange string sandal to match the color of the bag! Cute, isn't it?
+Don't forget the shoes! I chose a pair of orange string sandal to match the color of the bag! Cute, isn't it?  
+
 ![handbag](https://source.unsplash.com/HRQbI75HkZY)
 
-Hope you will find your personal bag for this spring!
+Hope you will find your personal bag for this spring!  
+
 ![handbag](https://source.unsplash.com/jn4Rwm8bfyA)
 
