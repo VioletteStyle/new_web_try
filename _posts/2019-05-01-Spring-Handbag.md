@@ -4,6 +4,22 @@ title: Handbags for this spring
 categories:
   - Accessories
 featured_image: https://source.unsplash.com/oaLNyi9gWh0/1560x940
+recipe:
+  outfit_markdown: |-
+    **spring 2019**
+
+    * blue striped blouse from Zara
+    * white ruffle blouse from Urbanoutfitters
+    * nude loose pants from Free People
+ 
+
+  tips_markdown: |-
+    **Do**
+
+    1. Keep a head-to-toe monochroma while add some bright accesorries.
+    2. Choose bright colors for spring look.
+    3. Box handbag is cute.
+
 ---
 We saw a lot of great new ideas from ss19 runaway and fashion weeks. My favorite style for handbag this year is absolutely ***box handbag***.   
 
