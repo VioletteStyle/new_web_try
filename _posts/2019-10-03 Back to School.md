@@ -3,8 +3,8 @@ date: 2019-10-03
 title: Back to School again
 categories:
   - Accessories
-featured_image: https://source.unsplash.com/oaLNyi9gWh0/1560x940
-recipe:
+featured_image: 
+
   outfit_markdown: |-
     **spring 2019**
 
